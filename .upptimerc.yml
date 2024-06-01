@@ -16,11 +16,11 @@ sites:
     url: https://beccarcouture.com
   - name: LA CURVE / BECCAR
     url: https://la-curve.com
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+  # - name: IPv6 test
+  #   url: forwardemail.net
+  #   port: 80
+  #   check: "tcp-ping"
+  #   ipv6: true
 
 assignees:
   - timching
