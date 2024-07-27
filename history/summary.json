@@ -4,18 +4,20 @@
     "url": "https://atelierbeccar.com",
     "icon": "https://icons.duckduckgo.com/ip3/atelierbeccar.com.ico",
     "slug": "beccar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 189,
-    "timeDay": 1116,
-    "timeWeek": 483,
-    "timeMonth": 247,
-    "timeYear": 189,
-    "dailyMinutesDown": {}
+    "time": 281,
+    "timeDay": 3675,
+    "timeWeek": 1570,
+    "timeMonth": 583,
+    "timeYear": 281,
+    "dailyMinutesDown": {
+      "2024-07-27": 0
+    }
   },
   {
     "name": "BECCAR (Legacy)",
