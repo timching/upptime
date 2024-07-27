@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/atelierbeccar.com.ico",
     "slug": "beccar",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 190,
-    "timeDay": 1133,
-    "timeWeek": 487,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 189,
+    "timeDay": 1116,
+    "timeWeek": 483,
     "timeMonth": 247,
-    "timeYear": 190,
-    "dailyMinutesDown": {
-      "2024-07-26": 11
-    }
+    "timeYear": 189,
+    "dailyMinutesDown": {}
   },
   {
     "name": "BECCAR (Legacy)",
@@ -25,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/beccarcouture.com.ico",
     "slug": "beccar-legacy",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 147,
-    "timeDay": 1122,
-    "timeWeek": 459,
+    "timeDay": 1115,
+    "timeWeek": 460,
     "timeMonth": 219,
     "timeYear": 147,
-    "dailyMinutesDown": {
-      "2024-07-26": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "LA CURVE / BECCAR",
@@ -51,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 173,
-    "timeDay": 295,
-    "timeWeek": 167,
+    "timeDay": 128,
+    "timeWeek": 155,
     "timeMonth": 187,
     "timeYear": 173,
     "dailyMinutesDown": {}
