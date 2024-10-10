@@ -4,36 +4,40 @@
     "url": "https://atelierbeccar.com",
     "icon": "https://icons.duckduckgo.com/ip3/atelierbeccar.com.ico",
     "slug": "beccar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 253,
-    "timeDay": 224,
-    "timeWeek": 167,
+    "time": 252,
+    "timeDay": 189,
+    "timeWeek": 166,
     "timeMonth": 169,
-    "timeYear": 253,
-    "dailyMinutesDown": {}
+    "timeYear": 252,
+    "dailyMinutesDown": {
+      "2024-10-10": 0
+    }
   },
   {
     "name": "BECCAR (Legacy)",
     "url": "https://beccarcouture.com",
     "icon": "https://icons.duckduckgo.com/ip3/beccarcouture.com.ico",
     "slug": "beccar-legacy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 146,
-    "timeDay": 156,
-    "timeWeek": 129,
+    "timeDay": 165,
+    "timeWeek": 135,
     "timeMonth": 146,
     "timeYear": 146,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-10": 0
+    }
   },
   {
     "name": "LA CURVE / BECCAR",
