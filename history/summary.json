@@ -6,18 +6,16 @@
     "slug": "beccar",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 252,
-    "timeDay": 187,
-    "timeWeek": 168,
+    "timeDay": 164,
+    "timeWeek": 167,
     "timeMonth": 169,
     "timeYear": 252,
-    "dailyMinutesDown": {
-      "2024-10-10": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "BECCAR (Legacy)",
@@ -26,18 +24,16 @@
     "slug": "beccar-legacy",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 146,
     "timeDay": 168,
-    "timeWeek": 139,
-    "timeMonth": 147,
+    "timeWeek": 147,
+    "timeMonth": 146,
     "timeYear": 146,
-    "dailyMinutesDown": {
-      "2024-10-10": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "LA CURVE / BECCAR",
@@ -51,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 183,
-    "timeDay": 183,
-    "timeWeek": 148,
-    "timeMonth": 211,
+    "timeDay": 180,
+    "timeWeek": 156,
+    "timeMonth": 210,
     "timeYear": 183,
     "dailyMinutesDown": {}
   }
