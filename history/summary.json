@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 225,
-    "timeDay": 141,
-    "timeWeek": 260,
-    "timeMonth": 245,
-    "timeYear": 235,
+    "timeDay": 200,
+    "timeWeek": 188,
+    "timeMonth": 238,
+    "timeYear": 225,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 146,
-    "timeDay": 165,
-    "timeWeek": 170,
-    "timeMonth": 179,
+    "timeDay": 123,
+    "timeWeek": 144,
+    "timeMonth": 175,
     "timeYear": 148,
     "dailyMinutesDown": {}
   },
@@ -42,17 +42,15 @@
     "slug": "la-curve-beccar",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.37%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 203,
-    "timeDay": 290,
-    "timeWeek": 250,
+    "timeDay": 134,
+    "timeWeek": 230,
     "timeMonth": 213,
     "timeYear": 206,
-    "dailyMinutesDown": {
-      "2025-05-07": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
