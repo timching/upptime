@@ -40,19 +40,19 @@
     "url": "https://la-curve.com",
     "icon": "https://icons.duckduckgo.com/ip3/la-curve.com.ico",
     "slug": "la-curve-beccar",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 211,
-    "timeDay": 1143,
-    "timeWeek": 420,
-    "timeMonth": 281,
-    "timeYear": 220,
+    "time": 212,
+    "timeDay": 1036,
+    "timeWeek": 465,
+    "timeMonth": 298,
+    "timeYear": 221,
     "dailyMinutesDown": {
-      "2025-06-19": 0
+      "2025-06-19": 10
     }
   }
 ]
