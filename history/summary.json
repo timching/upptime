@@ -40,9 +40,9 @@
     "url": "https://la-curve.com",
     "icon": "https://icons.duckduckgo.com/ip3/la-curve.com.ico",
     "slug": "la-curve-beccar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
@@ -52,6 +52,7 @@
     "timeMonth": 288,
     "timeYear": 232,
     "dailyMinutesDown": {
+      "2025-07-26": 0,
       "2025-07-24": 17
     }
   }
