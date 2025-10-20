@@ -4,10 +4,10 @@
     "url": "https://atelierbeccar.com",
     "icon": "https://icons.duckduckgo.com/ip3/atelierbeccar.com.ico",
     "slug": "beccar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 238,
@@ -15,7 +15,9 @@
     "timeWeek": 236,
     "timeMonth": 247,
     "timeYear": 219,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-20": 2
+    }
   },
   {
     "name": "BECCAR (Legacy)",
@@ -24,9 +26,9 @@
     "slug": "beccar-legacy",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 167,
     "timeDay": 170,
@@ -34,7 +36,7 @@
     "timeMonth": 200,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2025-10-20": 0
+      "2025-10-20": 14
     }
   },
   {
@@ -44,17 +46,17 @@
     "slug": "la-curve-beccar",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.47%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "97.53%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.98%",
     "time": 234,
     "timeDay": 285,
     "timeWeek": 307,
     "timeMonth": 281,
     "timeYear": 246,
     "dailyMinutesDown": {
-      "2025-10-20": 22,
+      "2025-10-20": 36,
       "2025-08-07": 32,
       "2025-07-24": 17
     }
