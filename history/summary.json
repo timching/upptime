@@ -22,9 +22,9 @@
     "url": "https://beccarcouture.com",
     "icon": "https://icons.duckduckgo.com/ip3/beccarcouture.com.ico",
     "slug": "beccar-legacy",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 197,
     "timeMonth": 203,
     "timeYear": 170,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-20": 0
+    }
   },
   {
     "name": "LA CURVE / BECCAR",
@@ -42,9 +44,9 @@
     "slug": "la-curve-beccar",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 233,
     "timeDay": 184,
@@ -52,7 +54,7 @@
     "timeMonth": 274,
     "timeYear": 245,
     "dailyMinutesDown": {
-      "2025-10-20": 0,
+      "2025-10-20": 14,
       "2025-08-07": 32,
       "2025-07-24": 17
     }
