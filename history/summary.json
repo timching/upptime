@@ -4,18 +4,19 @@
     "url": "https://atelierbeccar.com",
     "icon": "https://icons.duckduckgo.com/ip3/atelierbeccar.com.ico",
     "slug": "beccar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 218,
+    "time": 219,
     "timeDay": 83,
     "timeWeek": 220,
     "timeMonth": 233,
     "timeYear": 233,
     "dailyMinutesDown": {
+      "2026-01-27": 2,
       "2025-11-18": 99,
       "2025-10-20": 19
     }
@@ -25,9 +26,9 @@
     "url": "https://beccarcouture.com",
     "icon": "https://icons.duckduckgo.com/ip3/beccarcouture.com.ico",
     "slug": "beccar-legacy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -37,6 +38,7 @@
     "timeMonth": 171,
     "timeYear": 182,
     "dailyMinutesDown": {
+      "2026-01-27": 0,
       "2025-11-18": 138,
       "2025-10-20": 31
     }
